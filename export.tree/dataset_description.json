@@ -1,0 +1,22 @@
+{
+    "Name": "TPIL_CLBP_no_treatment_longitudinal",
+    "BIDSVersion": "1.2.1",
+    "License": "CC0",
+    "Authors": [
+        "Pascal Tétreault"
+    ],
+    "Acknowledgments": "",
+    "HowToAcknowledge": "",
+    "Funding": [
+        "Fonds de recherche du Québec – Santé (FRQS) - J1 salary award",
+        "Arthritis Society star career development award",
+        "Quebec Bio-Imaging Network (QBIN)",
+        "Quebec Pain Research Network (QPRN)"
+    ],
+    "ReferencesAndLinks": [
+        "Sean, M., Cote, S., Coulombe‐Lévêque, A., Huck, J., Martel, M., Liu, Z. M., Léonard, G., Whittingstall, K. & Tétreault, P. Distinct grey matter alterations in untreated mild to moderate chronic low back pain: a longitudinal magnetic resonance imaging study. European Journal of Pain 30.4 (2026)",
+        "Fortier, M. A., Little, G., Bautin, P., Sean, M., & Tétreault, P. Towards repeatable and converging methods in diffusion MRI: Evidence from a longitudinal chronic pain cohort. Aperture Neuro vol.6 (2026)",
+        "Sean, M., Coulombe-Lévêque, A., Nadeau, W., Charest, A. C., Martel, M., Léonard, G., & Tétreault, P. Counting your chickens before they hatch: improvements in an untreated chronic pain population, beyond regression to the mean and the placebo effect. Pain Reports 9.3 (2024)"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds008919.v1.0.0"
+}

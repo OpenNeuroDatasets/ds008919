@@ -1,0 +1,19 @@
+{
+    "age": {
+        "LongName": "Age of subjects",
+        "Units": "years"
+    },
+    "sex": {
+        "Levels": {
+            "F": "Female",
+            "M": "Male"
+        }
+    },
+    "group": {
+        "LongName": "Subject study group",
+        "Levels": {
+            "control": "Healthy subjects",
+            "patient": "Subject with low back pain"
+        }
+    }
+}

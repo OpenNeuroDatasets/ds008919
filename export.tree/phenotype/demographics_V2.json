@@ -1,0 +1,83 @@
+{
+    "ID": {
+        "Description": "Participant identifier."
+    },
+    "PCS_V2": {
+        "Description": "Pain Catastrophizing Scale"
+    },
+    "PDI_V2": {
+        "Description": "Pain Disability Index"
+    },
+    "VAS_V2": {
+        "Description": "Visual analogue scale"
+    },
+    "BPI_Other_Usual_Pain_V2": {
+        "Description": "Other pain indicated on the Brief Pain Inventory body diagram."
+    },
+    "BPI_Pain_Locations_Count_V2": {
+        "Description": "Number of pain locations reported on the Brief Pain Inventory body diagram."
+    },
+    "BPI_Other_Pain_Locations_V2": {
+        "Description": "Additional pain locations or notes recorded with the Brief Pain Inventory"
+    },
+    "BPI_Pain_Locations_V2": {
+        "Description": "Pain locations marked on the Brief Pain Inventory body diagram."
+    },
+    "BPI_Pain_Location_Worst_V2": {
+        "Description": "Location(s) identified as the worst pain on the Brief Pain Inventory"
+    },
+    "BPI_Pain_Worst_24h_V2": {
+        "Description": "Worst pain in the past 24 hours, Brief Pain Inventory."
+    },
+    "BPI_Pain_Least_24h_V2": {
+        "Description": "Least pain in the past 24 hours, Brief Pain Inventory."
+    },
+    "BPI_Pain_Average_24h_V2": {
+        "Description": "Average pain in the past 24 hours, Brief Pain Inventory."
+    },
+    "BPI_Pain_Current_V2": {
+        "Description": "Pain right now, Brief Pain Inventory."
+    },
+    "BPI_Physical_Function_Interference_V2": {
+        "Description": "Interference score for physical functioning, Brief Pain Inventory."
+    },
+    "BPI_Pain_Severity_Score_V2": {
+        "Description": "Pain severity score, Brief Pain Inventory."
+    },
+    "PainDetect_Pain_Current_V2": {
+        "Description": "Current pain intensity recorded in PainDETECT."
+    },
+    "PainDetect_Pain_Worst_4Weeks_V2": {
+        "Description": "Worst pain during the past 4 weeks, PainDETECT"
+    },
+    "PainDetect_Pain_Average_4Weeks_V2": {
+        "Description": "Average pain during the past 4 weeks, PainDETECT"
+    },
+    "PainDetect_Main_Pain_Location_V2": {
+        "Description": "Main pain location recorded in PainDETECT"
+    },
+    "PainDetect_Other_Pain_Location_V2": {
+        "Description": "Other pain location recorded in PainDETECT"
+    },
+    "PainDetect_Pain_Radiation_V2": {
+        "Description": "Pain radiation description recorded in PainDETECT."
+    },
+    "PainDetect_Total_Score_V2": {
+        "Description": "PainDETECT total score."
+    },
+    "STAI_Y1_V2": {
+        "Description": "State-Trait Anxiety Inventory - Y1 score."
+    },
+    "STAI_Y2_V2": {
+        "Description": "State-Trait Anxiety Inventory - Y2 score."
+    },
+    "McGill_V2": {
+        "Description": "McGill questionnaire score."
+    },
+    "McGill_Pain_1week_V2": {
+        "Description": "McGill pain measure for the past week."
+    },
+    "McGill_intensity_current_V2": {
+        "Description": "McGill: intensity right now."
+    }
+}
